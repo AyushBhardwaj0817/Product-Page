@@ -26,6 +26,6 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ayushbhardwaj0817/product-page.git
+   git clone https://github.com/AyushBhardwaj0817/Product-Page.git
 
 
